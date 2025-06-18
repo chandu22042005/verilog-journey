@@ -1,0 +1,32 @@
+# Simulation output files
+*.vcd
+*.lxt
+*.vvp
+*.out
+*.log
+
+# Temporary and swap files
+*~
+*.swp
+
+# ModelSim/Questa/Vivado generated directories and logs
+work/
+*.wlf
+*.jou
+*.pb
+*.wdb
+*.xpr
+*.webtalk/
+*.runs/
+*.sim/
+*.cache/
+*.ip_user_files/
+*.hw/
+*.xsim/
+
+# Vivado auto-generated scripts
+*.tcl
+
+# Others
+*.bak
+*.tmp
